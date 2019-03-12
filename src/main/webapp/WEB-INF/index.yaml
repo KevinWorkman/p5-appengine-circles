@@ -1,0 +1,9 @@
+indexes:
+- kind: Circle
+  properties:
+  - name: id
+  - name: x
+  - name: y
+  - name: size
+  - name: timestamp
+    direction: desc
